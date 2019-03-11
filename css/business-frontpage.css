@@ -4,15 +4,17 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-business-frontpage/blob/master/LICENSE)
  */
 body {
-  padding-top: 56px;
+  padding-top: 42px;
 }
 
 img {
 	max-width:5%;
-	height:auto;
   padding: 5px;
+  margin:auto;
+  height:auto;
 }
 
-h3 {
-  margin-top: 10px;
+h4 {
+  height:auto;
+  margin:auto;
 }
