@@ -6,3 +6,13 @@
 body {
   padding-top: 56px;
 }
+
+img {
+	max-width:5%;
+	height:auto;
+  padding: 5px;
+}
+
+h3 {
+  margin-top: 10px;
+}
